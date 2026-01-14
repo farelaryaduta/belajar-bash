@@ -5,6 +5,7 @@ So basically this repository is an Progress based of what i make of bash scripti
 ## What i made so far :
 - Making an Automated Logs Analysis (`script.sh`)
 - Making an Automated Set Up bash script for Making Laravel Project (`laravel_setup.sh`)
+- Making an Automated Set Up of bash script for making Key SSH and Automated SSH Login (`openssh_command.sh` & `openssh_login.sh`)
 - More coming soon...
 
 This will just be my go to `Repository` when I want to learn something new about bash scripting.
